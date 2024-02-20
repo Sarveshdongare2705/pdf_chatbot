@@ -112,16 +112,13 @@ const Home = () => {
                   placeholder="Enter query regarding your pdf."
                 />
               </div>
-              
-              
             </div>
-            
           </div>
           <div className="chats">
           <Card text={'What is the first rule of the amendment'}  bot={false}/>
-          <Card text={'It states that each human should have equal rights'}  bot={true}/>
+          <Card text={'It states that each human should have equal rights.It states that each human should have equal rights.It states that each human should have equal rights.It states that each human should have equal rights.It states that each human should have equal rights.It states that each human should have equal rights.It states that each human should have equal rights.'}  bot={true}/>
           <Card text={'What is the first rule of the amendment'}  bot={false}/>
-          <Card text={'It states that each human should have equal rights'}  bot={true}/>
+          <Card text={'It states that each human should have equal rightsIt states that each human should have equal rightsIt states that each human should have equal rightsIt states that each human should have equal rightsIt states that each human should have equal rightsIt states that each human should have equal rightsIt states that each human should have equal rights'}  bot={true}/>
           <Card text={'What is the first rule of the amendment'}  bot={false}/>
           <Card text={'It states that each human should have equal rights'}  bot={true}/> 
           <Card text={'What is the first rule of the amendment'}  bot={false}/>
